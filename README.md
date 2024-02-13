@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Improve Coral Edge TPU guide (#8160)
