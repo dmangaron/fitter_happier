@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix cmake requirements for ARM64 (#8589)
